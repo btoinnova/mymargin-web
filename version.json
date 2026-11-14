@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "0.80.20",
+  "versionCode": 164,
+  "versionName": "0.80.21",
   "apkUrl": "https://github.com/btoinnova/mymargin-web/releases/download/latest/mymargin-beta.apk",
-  "notas": "vc163: solo registro interno de version y posicion GPS por viaje; no cambia lecturas ni decisiones. Primera version que busca actualizaciones en BTo Innova. Despues de instalar hay que encender el Auditor.",
+  "notas": "vc164: nuevo ajuste Pais en Configuracion (Chile o Argentina). Solo se guarda: no cambia lecturas ni decisiones. Despues de instalar hay que encender el Auditor.",
   "obligatoria": false
 }
