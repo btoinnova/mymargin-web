@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "0.80.22",
+  "versionCode": 166,
+  "versionName": "0.80.23",
   "apkUrl": "https://github.com/btoinnova/mymargin-web/releases/download/latest/mymargin-beta.apk",
-  "notas": "vc165: lee ofertas de Uber Argentina cuando el pais elegido es Argentina (monto ARS y linea resumen). Chile no cambia. Despues de instalar hay que encender el Auditor.",
+  "notas": "vc166: zonas de Argentina por barrio (48 de CABA y 24 partidos del Gran Buenos Aires) cuando el pais elegido es Argentina. Chile no cambia. Despues de instalar hay que encender el Auditor.",
   "obligatoria": false
 }
