@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "0.80.23",
+  "versionCode": 170,
+  "versionName": "0.80.27",
   "apkUrl": "https://github.com/btoinnova/mymargin-web/releases/download/latest/mymargin-beta.apk",
-  "notas": "vc166: zonas de Argentina por barrio (48 de CABA y 24 partidos del Gran Buenos Aires) cuando el pais elegido es Argentina. Chile no cambia. Despues de instalar hay que encender el Auditor.",
+  "notas": "Lee mejor la tarjeta nueva de Uber: km con decimal perdido, icono pegado a los minutos, recogida lenta y comuna de destino",
   "obligatoria": false
 }
